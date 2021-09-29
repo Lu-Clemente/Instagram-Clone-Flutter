@@ -1,16 +1,16 @@
-# second
+# Instagram Clone Flutter
 
-A new Flutter project.
+This is a Flutter study project, based on [sopheamen007](https://github.com/sopheamen007) work on his Youtube channel.
 
-## Getting Started
+## Notes
 
-This project is a starting point for a Flutter application.
+This is a first flutter application I've create and it is still on improment.
+Some buttons and actions will be added in the future.
+This is not a up to dated Instagram's version and misses some pages.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+ <br>
+ <img width="200px" src="https://github.com/Lu-Clemente/Instagram-Clone-Flutter/blob/main/preview/HomePage.png">
+ <img width="200px" src="https://github.com/Lu-Clemente/Instagram-Clone-Flutter/blob/main/preview/HomePage-pt2.png">
+ <img width="200px" src="https://github.com/Lu-Clemente/Instagram-Clone-Flutter/blob/main/preview/SearchPage.png">
+</div>
